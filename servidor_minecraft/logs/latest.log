@@ -28,3 +28,20 @@
 [00:03:55] [User Authenticator #3/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
 [00:03:58] [Server thread/INFO]: Xxbraianproxx joined the game
 [00:03:58] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:48247] logged in with entity id 4310 at ([world]179.63031577386025, 72.0, 218.27824310039392)
+[00:05:26] [Server thread/INFO]: Xxbraianproxx lost connection: Disconnected
+[00:05:26] [Server thread/INFO]: Xxbraianproxx left the game
+[00:07:14] [User Authenticator #4/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[00:07:18] [Server thread/INFO]: Xxbraianproxx joined the game
+[00:07:18] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:49313] logged in with entity id 4601 at ([world]179.63031577386025, 72.0, 218.27824310039392)
+[00:09:41] [Server thread/INFO]: Xxbraianproxx lost connection: Timed out
+[00:09:41] [Server thread/INFO]: Xxbraianproxx left the game
+[00:10:34] [User Authenticator #5/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[00:10:37] [Server thread/INFO]: Xxbraianproxx joined the game
+[00:10:37] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:33515] logged in with entity id 4917 at ([world]176.69999998807907, 66.0, 217.5019774185135)
+[00:11:37] [Server thread/INFO]: Xxbraianproxx lost connection: Timed out
+[00:11:37] [Server thread/INFO]: Xxbraianproxx left the game
+[00:12:08] [User Authenticator #6/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[00:12:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@6990751e[id=f5802507-be0a-371f-825f-ef9c05f2235f,name=Xxbraianproxx,properties={}] lost connection: Disconnected
+[00:12:58] [User Authenticator #6/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[00:13:04] [Server thread/INFO]: Xxbraianproxx joined the game
+[00:13:04] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:56043] logged in with entity id 5152 at ([world]177.57927313567552, 68.0, 217.20598744403725)
